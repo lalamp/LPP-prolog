@@ -1,5 +1,5 @@
 # prolog
-Trabalho Prolog da disciplina Linguegens e Paradigmas de Programação
+Trabalho de Prolog da disciplina Linguegens e Paradigmas de Programação
 
 Você faz parte de uma equipe que faz pesquisas marítimas de campo e, como você estuda programação, a chefe da equipe pediu para que você relacionasse os dados geográficos dos oceanos com as fronteiras para auxiliar nos estudos.
 
