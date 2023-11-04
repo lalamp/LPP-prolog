@@ -1,4 +1,4 @@
-# Linguegens e Paradigmas de Programação
+# Linguagens e Paradigmas de Programação
 Linguagem: Prolog
 
 Você faz parte de uma equipe que faz pesquisas marítimas de campo e, como você estuda programação, a chefe da equipe pediu para que você relacionasse os dados geográficos dos oceanos com as fronteiras para auxiliar nos estudos.
